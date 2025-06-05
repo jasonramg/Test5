@@ -9,15 +9,38 @@ https://otttv.co.in/d2h/livestream/sony-pal/master.m3u8
 https://otttv.co.in/d2h/livestream/sony-max-hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-country="IN" tvg-chno="sony-pix-hd" group-title="HIBURAN",SONY max 
 https://otttv.co.in/d2h/livestream/sony-max/master.m3u8
-#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-country="IN" tvg-chno="sony-pix-hd" group-title="HIBURAN",Zee Tv
-https://otttv.co.in/d2h/livestream/zee-tv/master.m3u8
-#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-country="IN" tvg-chno="sony-pix-hd" group-title="HIBURAN",Zee Tv HD
-https://otttv.co.in/d2h/livestream/zee-tv-hd/master.m3u8
-#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-country="IN" tvg-chno="sony-pix-hd" group-title="HIBURAN",Star Plus
-https://otttv.co.in/d2h/livestream/star-plus/master.m3u8
-#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-country="IN" tvg-chno="sony-pix-hd" group-title="HIBURAN",Star Plus HD
-https://otttv.co.in/d2h/livestream/star-plus-hd/master.m3u8
-#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-country="IN" tvg-chno="sony-pix-hd" group-title="HIBURAN",colors
-https://otttv.co.in/d2h/livestream/colors/master.m3u8
-#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-country="IN" tvg-chno="sony-pix-hd" group-title="HIBURAN",colors hd
-https://otttv.co.in/d2h/livestream/colors-hd/master.m3u8
+#EXTINF:-1 tvg-id="zee-tv" tvg-name="Zee TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-tv-hd.png" tvg-chno="zee-tv" group-title="Entertainment",Zee TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-tv/drmLicense
+https://otttv.co.in/d2h/livestream/zee-tv/manifest.mpd
+#EXTINF:-1 tvg-id="zee-tv" tvg-name="Zee TV" tvg-language="Hindi" tvg-country="IN" tvg-chno="zee-tv" group-title="Entertainment",Star Plus
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/star-plus/drmLicense
+https://otttv.co.in/d2h/livestream/star-plus/manifest.mpd
+#EXTINF:-1 tvg-id="zee-tv" tvg-name="Zee TV" tvg-language="Hindi" tvg-country="IN" tvg-chno="zee-tv" group-title="Entertainment",Star Plus
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/star-plus-hd/drmLicense
+https://otttv.co.in/d2h/livestream/star-plus-hd/manifest.mpd
+#EXTINF:-1 tvg-id="zee-tv" tvg-name="Zee TV" tvg-language="Hindi" tvg-country="IN" tvg-chno="zee-tv" group-title="Entertainment",Colors
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/colors/drmLicense
+https://otttv.co.in/d2h/livestream/colors/manifest.mpd
+#EXTINF:-1 tvg-id="zee-tv" tvg-name="Zee TV" tvg-language="Hindi" tvg-country="IN" tvg-chno="zee-tv" group-title="Entertainment",Colors Cineplex
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/colors-cineplex/drmLicense
+https://otttv.co.in/d2h/livestream/colors-cineplex/manifest.mpd
