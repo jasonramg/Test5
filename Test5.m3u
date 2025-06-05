@@ -1,13 +1,23 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-country="IN" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-pix-in.png" tvg-chno="sony-pix-hd" group-title="HIBURAN",SONY PIX 
 https://otttv.co.in/d2h/livestream/sony-pix-hd/master.m3u8
-#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-country="IN" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-pix-in.png" tvg-chno="sony-pix-hd" group-title="HIBURAN",SONY Sab 
-https://otttv.co.in/d2h/livestream/sony-sab-hd/master.m3u8
-#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-country="IN" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-pix-in.png" tvg-chno="sony-pix-hd" group-title="HIBURAN",SONY pal
+#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-country="IN" tvg-chno="sony-pix-hd" group-title="HIBURAN",SONY Sab 
+https://otttv.co.in/d2h/livestream/sony-sab/master.m3u8
+#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-country="IN" tvg-chno="sony-pix-hd" group-title="HIBURAN",SONY pal
 https://otttv.co.in/d2h/livestream/sony-pal/master.m3u8
-#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-country="IN" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-pix-in.png" tvg-chno="sony-pix-hd" group-title="HIBURAN",SONY max hd
+#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-country="IN" tvg-chno="sony-pix-hd" group-title="HIBURAN",SONY max hd
 https://otttv.co.in/d2h/livestream/sony-max-hd/master.m3u8
-#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-country="IN" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-pix-in.png" tvg-chno="sony-pix-hd" group-title="HIBURAN",SONY max 
+#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-country="IN" tvg-chno="sony-pix-hd" group-title="HIBURAN",SONY max 
 https://otttv.co.in/d2h/livestream/sony-max/master.m3u8
-#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-country="IN" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-pix-in.png" tvg-chno="sony-pix-hd" group-title="HIBURAN",SONY max sd
-https://otttv.co.in/d2h/livestream/sony-max-sd/master.m3u8
+#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-country="IN" tvg-chno="sony-pix-hd" group-title="HIBURAN",Zee Tv
+https://otttv.co.in/d2h/livestream/zee-tv/master.m3u8
+#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-country="IN" tvg-chno="sony-pix-hd" group-title="HIBURAN",Zee Tv HD
+https://otttv.co.in/d2h/livestream/zee-tv-hd/master.m3u8
+#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-country="IN" tvg-chno="sony-pix-hd" group-title="HIBURAN",Star Plus
+https://otttv.co.in/d2h/livestream/star-plus/master.m3u8
+#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-country="IN" tvg-chno="sony-pix-hd" group-title="HIBURAN",Star Plus HD
+https://otttv.co.in/d2h/livestream/star-plus-hd/master.m3u8
+#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-country="IN" tvg-chno="sony-pix-hd" group-title="HIBURAN",colors
+https://otttv.co.in/d2h/livestream/colors/master.m3u8
+#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-country="IN" tvg-chno="sony-pix-hd" group-title="HIBURAN",colors hd
+https://otttv.co.in/d2h/livestream/colors-hd/master.m3u8
